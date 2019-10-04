@@ -1,0 +1,349 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJucs5vzdq1moRpVuNIE-ba5M",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ69wtLFlA1moREr1R8lK9BQg",
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : -37.8465365,
+               "lng" : 145.1154263
+            },
+            "southwest" : {
+               "lat" : -37.9010129,
+               "lng" : 145.0706968
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "9.6 km",
+                  "value" : 9617
+               },
+               "duration" : {
+                  "text" : "20 mins",
+                  "value" : 1219
+               },
+               "end_address" : "221 Burwood Hwy, Burwood VIC 3125, Australia",
+               "end_location" : {
+                  "lat" : -37.8473695,
+                  "lng" : 145.1151311
+               },
+               "start_address" : "Flat 3/31 Kangaroo Rd, Murrumbeena VIC 3163, Australia",
+               "start_location" : {
+                  "lat" : -37.896461,
+                  "lng" : 145.0706968
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "11 m",
+                        "value" : 11
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 4
+                     },
+                     "end_location" : {
+                        "lat" : -37.8963676,
+                        "lng" : 145.0707514
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e toward \u003cb\u003eBute St\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "zshfF{bmtZAACACAEAAA"
+                     },
+                     "start_location" : {
+                        "lat" : -37.896461,
+                        "lng" : 145.0706968
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "94 m",
+                        "value" : 94
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 31
+                     },
+                     "end_location" : {
+                        "lat" : -37.89567479999999,
+                        "lng" : 145.0708853
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 1st cross street onto \u003cb\u003eBute St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "hshfFecmtZ?A?CAA?CAAACCEAACECACAAAECC?CAA@A?A@ABABIRoAO"
+                     },
+                     "start_location" : {
+                        "lat" : -37.8963676,
+                        "lng" : 145.0707514
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 274
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 48
+                     },
+                     "end_location" : {
+                        "lat" : -37.8960979,
+                        "lng" : 145.0739564
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eErindale St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "|nhfFadmtZ^yFTwDHa@TqC"
+                     },
+                     "start_location" : {
+                        "lat" : -37.89567479999999,
+                        "lng" : 145.0708853
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 243
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 36
+                     },
+                     "end_location" : {
+                        "lat" : -37.8982016,
+                        "lng" : 145.0739137
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eHowe St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "rqhfFgwmtZ~@o@BCBADA@?B@F?f@FZDjBRvC\\"
+                     },
+                     "start_location" : {
+                        "lat" : -37.8960979,
+                        "lng" : 145.0739564
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.2 km",
+                        "value" : 1180
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 126
+                     },
+                     "end_location" : {
+                        "lat" : -37.9010129,
+                        "lng" : 145.0867113
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eKangaroo Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eGo through 1 roundabout\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "v~hfF}vmtZb@kH?Q@GAQBS?E@GAK?S?AA??A?AAA?A?A?A?A?A?A@??A?A?A@??A@??AJSFKHWhAeE^uA`@}Ap@kCRo@b@cBRu@b@_BVkAH[F_@DOFg@DYBWRcDHuAReDHsAReDJuARkDFw@@Y"
+                     },
+                     "start_location" : {
+                        "lat" : -37.8982016,
+                        "lng" : 145.0739137
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 km",
+                        "value" : 896
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 97
+                     },
+                     "end_location" : {
+                        "lat" : -37.8930704,
+                        "lng" : 145.0881734
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eWarrigal Rd\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eState Route 15\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "hpifF}fptZ_@Mg@Oq@Oa@Gg@GKAKAm@GgAMOCQAeAKGAy@CUAsAEkAAWA]EUCE?EAGAAAEEwBUUE_@EcAKOAGAKAcBQQCQCoC[SEUCQEUEi@IMCUFA?GA[Ge@A"
+                     },
+                     "start_location" : {
+                        "lat" : -37.9010129,
+                        "lng" : 145.0867113
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "4.8 km",
+                        "value" : 4796
+                     },
+                     "duration" : {
+                        "text" : "9 mins",
+                        "value" : 557
+                     },
+                     "end_location" : {
+                        "lat" : -37.8503868,
+                        "lng" : 145.0956113
+                     },
+                     "html_instructions" : "Continue straight to stay on \u003cb\u003eWarrigal Rd\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eState Route 15\u003c/b\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "t~gfFapptZg@Eg@G}@G_@Ew@Is@Is@G}@Ky@IOCm@GiBQaBQOCE?GAWEGAe@GWC{@KSCYCcAMi@GeCYQCYCsAQyC_@aEg@QAy@Ka@Ei@EyB_@m@I{@MWEeAIi@MUEMCKAC?c@Ge@GyAQg@Go@GeAC[CkAIoBSsBWq@KgBUm@G[Cw@IAAA?sBSgAM_D[}@KYC_@CuAQg@GMAm@Gs@IcAMsBS{@GIAM?S?k@AK@S?E@G?S@]D]@]@a@@[?i@Am@CUCm@GwBQsAOKA[C}AQIAsAKqBSA?k@Gu@Gm@CmAEk@Cs@G[Sw@IgAKMCo@KSCaBSuAMgBQ{AO{@K[EkAMYEgAKOCsAM[Em@GsBUy@I_AKcAKi@Go@G[EKAqAM_@EKAaAKsAOg@Eq@Io@Gi@GOAGAWCoAOa@EC?_@EaAKSCE?oAO_@EcBQe@Em@GaE_@QCYCa@EuAMUCA?QC]CYEyAM"
+                     },
+                     "start_location" : {
+                        "lat" : -37.8930704,
+                        "lng" : 145.0881734
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.5 km",
+                        "value" : 1542
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 161
+                     },
+                     "end_location" : {
+                        "lat" : -37.8496526,
+                        "lng" : 145.1129823
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eBurwood Hwy\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eState Route 26\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "|s_fFq~qtZ@UZoGHqA@OH}ADu@EIAE?GAE?_@?I?kBEqCCcA?OCe@Co@E{@Cg@AUOoCAOW}FQuASyA[sCM{AUcCWeCIs@U}EIwCAk@AmA?M?yA@sA?M@M@s@@CDgBHkA@MPmDB_@"
+                     },
+                     "start_location" : {
+                        "lat" : -37.8503868,
+                        "lng" : 145.0956113
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 352
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 79
+                     },
+                     "end_location" : {
+                        "lat" : -37.8465365,
+                        "lng" : 145.1136703
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eHolland Ave\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ho_fFckutZs@K]EcAO}@I_@ESCi@G}AQc@EkAMUEwA_@"
+                     },
+                     "start_location" : {
+                        "lat" : -37.8496526,
+                        "lng" : 145.1129823
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 141
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 50
+                     },
+                     "end_location" : {
+                        "lat" : -37.8466992,
+                        "lng" : 145.1152527
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "z{~eFmoutZViCBm@BaB?M?S"
+                     },
+                     "start_location" : {
+                        "lat" : -37.8465365,
+                        "lng" : 145.1136703
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "44 m",
+                        "value" : 44
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 17
+                     },
+                     "end_location" : {
+                        "lat" : -37.8470498,
+                        "lng" : 145.1154263
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "z|~eFiyutZd@EBA@?DEDELO"
+                     },
+                     "start_location" : {
+                        "lat" : -37.8466992,
+                        "lng" : 145.1152527
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "44 m",
+                        "value" : 44
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 13
+                     },
+                     "end_location" : {
+                        "lat" : -37.8473695,
+                        "lng" : 145.1151311
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "`__fFmzutZHLDBLJBDD@JHBBBB@@@@"
+                     },
+                     "start_location" : {
+                        "lat" : -37.8470498,
+                        "lng" : 145.1154263
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "zshfF{bmtZOGAGEKMOOGG?O\\oAO^yFTwDHa@TqC~@o@FER?fI~@b@}H?YBm@AUAE@K`@aAlHoXn@wCLaAV{Dz@uNh@sIgA]sAWmBSoD_@kDMcBCs@IUEEEwBUu@KgBQwGu@qAUw@MWFc@ImAG}D_@_Fg@_I{@aCY{C]mTiCkAKgDi@sASeAIi@Mc@IKAgDa@wAOaBG{D]eDc@iFk@_Ec@wGo@yDc@gHs@wACm@BmBJ}@@wAEoGm@oCYsFg@}EUs@G[S_CUsDg@uI{@iEe@mD_@sLoAmSuBsWiCw@IyAM@Ud@aJJmBDu@EIAMA{CMkGOiDQ_DW}FQuAo@mFc@_Fa@yD_@uJCaFDcDReETmEqAQuDc@wFm@mBe@ViCBm@BoB?Sd@EDAJKLOHLRNXTFF"
+         },
+         "summary" : "Warrigal Rd/State Route 15",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

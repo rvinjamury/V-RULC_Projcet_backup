@@ -1,0 +1,277 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJeea4YPZq1moRedCRcFKtQgY",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ8fH42y5q1moREMvhDcVMleU",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : -37.889214,
+               "lng" : 145.0971688
+            },
+            "southwest" : {
+               "lat" : -37.9006972,
+               "lng" : 145.056265
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "4.8 km",
+                  "value" : 4796
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 559
+               },
+               "end_address" : "223 Koornang Rd, Carnegie VIC 3163, Australia",
+               "end_location" : {
+                  "lat" : -37.8934153,
+                  "lng" : 145.056265
+               },
+               "start_address" : "10 Westminster St, Oakleigh VIC 3166, Australia",
+               "start_location" : {
+                  "lat" : -37.9006972,
+                  "lng" : 145.0956496
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 126
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 16
+                     },
+                     "end_location" : {
+                        "lat" : -37.8995774,
+                        "lng" : 145.0958672
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eWestminster St\u003c/b\u003e toward \u003cb\u003eAtherton Rd\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "jnifFy~qtZm@GqDc@"
+                     },
+                     "start_location" : {
+                        "lat" : -37.9006972,
+                        "lng" : 145.0956496
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "45 m",
+                        "value" : 45
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 10
+                     },
+                     "end_location" : {
+                        "lat" : -37.8996437,
+                        "lng" : 145.0963774
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eAtherton Rd\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "jgifFe`rtZJeB"
+                     },
+                     "start_location" : {
+                        "lat" : -37.8995774,
+                        "lng" : 145.0958672
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 420
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 47
+                     },
+                     "end_location" : {
+                        "lat" : -37.8959185,
+                        "lng" : 145.0971688
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eTamar Grove\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "vgifFkcrtZgV}C"
+                     },
+                     "start_location" : {
+                        "lat" : -37.8996437,
+                        "lng" : 145.0963774
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 km",
+                        "value" : 946
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 121
+                     },
+                     "end_location" : {
+                        "lat" : -37.8930016,
+                        "lng" : 145.087341
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eNational Route Alt 1\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "nphfFihrtZ_AnB{@dBoBfEy@`BCFg@`AGNEHYh@MVEJELGTOd@Id@Ed@Eb@OfCC`@UbDANEj@AJAPOhBEf@KjAKzAGnAIlAAZCt@InB"
+                     },
+                     "start_location" : {
+                        "lat" : -37.8959185,
+                        "lng" : 145.0971688
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 187
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 23
+                     },
+                     "end_location" : {
+                        "lat" : -37.8926836,
+                        "lng" : 145.0852807
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eDandenong Rd Service Rd\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003ePrinces Hwy Service Rd\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "f~gfF{jptZDf@@H?JI~@QvBIh@a@zB"
+                     },
+                     "start_location" : {
+                        "lat" : -37.8930016,
+                        "lng" : 145.087341
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.7 km",
+                        "value" : 1666
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 168
+                     },
+                     "end_location" : {
+                        "lat" : -37.8895669,
+                        "lng" : 145.066872
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003eNeerim Rd\u003c/b\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "f|gfF_~otZWjDIpAWnECZMvBUjDUhDK~AQbDSvCO~BMfBKdBm@~JC`@G`Aa@vGCVSlDOdCALAJg@fICNGTyCtIm@fBUp@"
+                     },
+                     "start_location" : {
+                        "lat" : -37.8926836,
+                        "lng" : 145.0852807
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 107
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 22
+                     },
+                     "end_location" : {
+                        "lat" : -37.890304,
+                        "lng" : 145.0663921
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eMurrumbeena Rd\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eState Route 22\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "xhgfF}jltZ@B?B@@?@?F@H@HBZL@NBH@P@l@H\\F"
+                     },
+                     "start_location" : {
+                        "lat" : -37.8895669,
+                        "lng" : 145.066872
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 km",
+                        "value" : 826
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 100
+                     },
+                     "end_location" : {
+                        "lat" : -37.889214,
+                        "lng" : 145.0570774
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eNeerim Rd\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eState Route 22\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "jmgfF}gltZCRANANA\\CNEt@Ev@MrB[jF]bGATGjAEn@C`@Er@WhEUfESbDCd@I`BGt@Et@"
+                     },
+                     "start_location" : {
+                        "lat" : -37.890304,
+                        "lng" : 145.0663921
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 473
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 52
+                     },
+                     "end_location" : {
+                        "lat" : -37.8934153,
+                        "lng" : 145.056265
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eKoornang Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "pfgfFwmjtZn@HrKlARBvCZnANhCZ"
+                     },
+                     "start_location" : {
+                        "lat" : -37.889214,
+                        "lng" : 145.0570774
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "jnifFy~qtZ_Fk@JeBgV}C{BtEiDhHy@bBs@zAWz@OjAo@pJKxAm@xHWnFInBDf@@T[vDk@dDa@|F[jFeAlPcAbPoCld@o@pJeFdOJbAx@HjAPEb@MrBmAzS{A|W[rFnRvBxEj@"
+         },
+         "summary" : "Neerim Rd",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

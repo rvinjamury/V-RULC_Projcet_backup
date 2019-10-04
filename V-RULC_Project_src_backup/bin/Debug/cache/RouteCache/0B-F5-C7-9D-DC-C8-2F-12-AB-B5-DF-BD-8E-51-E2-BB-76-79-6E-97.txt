@@ -1,0 +1,469 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ69wtLFlA1moREr1R8lK9BQg",
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJU-nCm-JF1moR7mc470YJTIc",
+         "types" : [ "premise" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : -37.7212046,
+               "lng" : 145.1183669
+            },
+            "southwest" : {
+               "lat" : -37.849855,
+               "lng" : 145.0459891
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "21.2 km",
+                  "value" : 21223
+               },
+               "duration" : {
+                  "text" : "36 mins",
+                  "value" : 2159
+               },
+               "end_address" : "Peribolos East, Bundoora VIC 3086, Australia",
+               "end_location" : {
+                  "lat" : -37.7212584,
+                  "lng" : 145.0488082
+               },
+               "start_address" : "221 Burwood Hwy, Burwood VIC 3125, Australia",
+               "start_location" : {
+                  "lat" : -37.8473695,
+                  "lng" : 145.1151311
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "44 m",
+                        "value" : 44
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 9
+                     },
+                     "end_location" : {
+                        "lat" : -37.8470498,
+                        "lng" : 145.1154263
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "`a_fFqxutZAAAACCCCKIEACEMKECIM"
+                     },
+                     "start_location" : {
+                        "lat" : -37.8473695,
+                        "lng" : 145.1151311
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "44 m",
+                        "value" : 44
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 16
+                     },
+                     "end_location" : {
+                        "lat" : -37.8466992,
+                        "lng" : 145.1152527
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eHolland Ave\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "`__fFmzutZMNEDEDA?C@e@D"
+                     },
+                     "start_location" : {
+                        "lat" : -37.8470498,
+                        "lng" : 145.1154263
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 141
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 51
+                     },
+                     "end_location" : {
+                        "lat" : -37.8465365,
+                        "lng" : 145.1136703
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eHolland Ave\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "z|~eFiyutZ?R?LC`BCl@WhC"
+                     },
+                     "start_location" : {
+                        "lat" : -37.8466992,
+                        "lng" : 145.1152527
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 352
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 114
+                     },
+                     "end_location" : {
+                        "lat" : -37.8496526,
+                        "lng" : 145.1129823
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eHolland Ave\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "z{~eFmoutZvA^TDjALb@D|APh@FRB^D|@HbAN\\Dr@J"
+                     },
+                     "start_location" : {
+                        "lat" : -37.8465365,
+                        "lng" : 145.1136703
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 338
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 47
+                     },
+                     "end_location" : {
+                        "lat" : -37.8496075,
+                        "lng" : 145.109375
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eBurwood Hwy\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eState Route 26\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ho_fFckutZh@FKdBMdBA^MbC?^C|AC`AApA?N@t@"
+                     },
+                     "start_location" : {
+                        "lat" : -37.8496526,
+                        "lng" : 145.1129823
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.3 km",
+                        "value" : 1349
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 160
+                     },
+                     "end_location" : {
+                        "lat" : -37.8379633,
+                        "lng" : 145.1105906
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eElgar Rd\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "`o_fFstttZ?dAc@By@IUC{@Ki@Es@I}C[{C[oAMwAQs@IaAKkAMy@KQC]EuAM]EgAKSCm@GeBQeAK{AQe@EkEc@kAMuAOi@Ec@EiAM{AOG?G@C?GBIBEBCB[Vc@b@"
+                     },
+                     "start_location" : {
+                        "lat" : -37.8496075,
+                        "lng" : 145.109375
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "4.6 km",
+                        "value" : 4650
+                     },
+                     "duration" : {
+                        "text" : "8 mins",
+                        "value" : 487
+                     },
+                     "end_location" : {
+                        "lat" : -37.7968592,
+                        "lng" : 145.1182446
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eElgar Rd\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eRiversdale Rd\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eState Route 20\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow Elgar Rd\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ff}eFe|ttZYq@IQEKEKEGEKKSEGA?IIMEICKA{Dc@mBSeEc@[E}Da@qBSSA}@IcBKsDYgDWMAkAGEAsAIs@EuE[yBQqAWWC]EYCI?IAs@IcC]}C_@]EcAMeAM]EqBWK?wAQ_@CcAMi@IIAqBSyAQiBSuC[k@G{@K}BUMA_@CSE_@CUAKCiAQOCc@Ga@EYCq@G_@Cg@GOAUCQAw@KE?sI_AWCs@Im@G}Dc@a@EQC_Ea@e@EsC[QCqD_@}Fm@QCc@EYCs@KeFg@sBUgCYSAiFk@]Ew@IQCw@IkAKqAOk@GkAMkGm@wBUQAaBQSCa@GoAMq@CCBEBC@E?{@DG@m@Dc@Ba@DQ?iAGI?"
+                     },
+                     "start_location" : {
+                        "lat" : -37.8379633,
+                        "lng" : 145.1105906
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "4.0 km",
+                        "value" : 3981
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 165
+                     },
+                     "end_location" : {
+                        "lat" : -37.7799345,
+                        "lng" : 145.0832259
+                     },
+                     "html_instructions" : "Merge onto \u003cb\u003eEastern Fwy\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eM3\u003c/b\u003e via the ramp to \u003cb\u003eCity\u003c/b\u003e",
+                     "maneuver" : "ramp-left",
+                     "polyline" : {
+                        "points" : "jeueF_lvtZIDKBOHSJMLCDEHKXSv@CFKNa@bBw@~CQ|@G\\CR_@lCWtBEHINE`AKnAOdBIp@Gf@G`@Id@Op@_@fBYdA[fAWx@_@bAg@pAu@|Ak@lAU`@gAjBo@dAaAxAc@n@q@`Aw@hAWXkDfEKJiAtAoEvFIHw@~@g@r@eAnAuBzBoBbB{ClB{BfAe@TIBMF{Ad@[H_Ex@aAPeATC?{@Ti@Nq@Xm@Xk@ZYNe@^_@\\g@b@W\\_@d@UXYd@U^Wj@Uf@Q^K\\Wx@KZMj@I`@G^GVEZCVEXCZCXC\\CX?PAVA^A^Ad@@~A?B@jADtADnAPbGHrEDhDBzC@dB?l@@nFCtHGdEGhB"
+                     },
+                     "start_location" : {
+                        "lat" : -37.7968592,
+                        "lng" : 145.1182446
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 421
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 49
+                     },
+                     "end_location" : {
+                        "lat" : -37.7808504,
+                        "lng" : 145.0786666
+                     },
+                     "html_instructions" : "Take the \u003cb\u003eBulleen Rd\u003c/b\u003e exit toward \u003cb\u003eState Rte 42\u003c/b\u003e",
+                     "maneuver" : "ramp-left",
+                     "polyline" : {
+                        "points" : "p{qeFeqotZJV?D@T@fBFpBDz@DdAFt@?LH~@Fd@Hb@Lh@Ld@Pl@@@Nb@P`@Rf@BNBN@L?@?R"
+                     },
+                     "start_location" : {
+                        "lat" : -37.7799345,
+                        "lng" : 145.0832259
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2.2 km",
+                        "value" : 2152
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 178
+                     },
+                     "end_location" : {
+                        "lat" : -37.7626245,
+                        "lng" : 145.0832035
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eBulleen Rd\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eState Route 42\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow Bulleen Rd\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "hareFutntZBd@I?[CK?w@?u@?k@AG@WAO?kB?sB?CAm@Ow@AgAGiAAs@Aa@AYFe@?sA@I?e@?Q?e@CI?{AKa@?yFWaFSeGW}BKAAmCOmAIyBIqAMe@O]Ky@_@i@_@]YSQAAgAoAUYEE}AcBCCqA{Ag@k@q@o@CEa@]GGYUQKWOOUk@MQGGAYGo@KAAg@EYEsAOUE}AYOCIA"
+                     },
+                     "start_location" : {
+                        "lat" : -37.7808504,
+                        "lng" : 145.0786666
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 130
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 18
+                     },
+                     "end_location" : {
+                        "lat" : -37.7616326,
+                        "lng" : 145.0824981
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eManningham Rd\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eState Route 40\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "joneF_qotZIHIFIBI@I@e@HI@cBdB"
+                     },
+                     "start_location" : {
+                        "lat" : -37.7626245,
+                        "lng" : 145.0832035
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.5 km",
+                        "value" : 1523
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 164
+                     },
+                     "end_location" : {
+                        "lat" : -37.7594071,
+                        "lng" : 145.066049
+                     },
+                     "html_instructions" : "Continue straight to stay on \u003cb\u003eManningham Rd\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eState Route 40\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow State Route 40\u003c/div\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "dineFslotZONONqBrBi@p@a@j@OXO\\ELIPGVENCNCNCP?@CVARANAL?J?P?\\@`B@`@@f@@x@?h@DnB?Z?H?FBlA@l@?H?PJpFBfB@fA?HBvB@z@?P?L?RAR?JCj@Et@I|AOxCC`@[rEMjBS~C[|EGt@Y|EOdB"
+                     },
+                     "start_location" : {
+                        "lat" : -37.7616326,
+                        "lng" : 145.0824981
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2.1 km",
+                        "value" : 2053
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 180
+                     },
+                     "end_location" : {
+                        "lat" : -37.7512538,
+                        "lng" : 145.0461249
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e to continue on \u003cb\u003eBanksia St\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eState Route 40\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow State Route 40\u003c/div\u003e",
+                     "maneuver" : "keep-right",
+                     "polyline" : {
+                        "points" : "h{meFyeltZm@hJA\\GjBKdBAN[fFEj@WpDMtAEVIXCJOj@YbACDCJCHKXITENi@fBQh@w@~B_@fAELi@pAEJi@r@a@f@e@^EBs@\\iAf@OHsBbA_Ar@]`@OPMPOTe@z@[v@Sr@_@pA]h@IT{@rCk@tB_@rAkAbECHWdAs@dC_@vAg@dBELa@vAo@zBADENADCFELELOnAOt@"
+                     },
+                     "start_location" : {
+                        "lat" : -37.7594071,
+                        "lng" : 145.066049
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2.9 km",
+                        "value" : 2913
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 323
+                     },
+                     "end_location" : {
+                        "lat" : -37.7255772,
+                        "lng" : 145.0513121
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eWaterdale Rd\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "hhleFgihtZGX_@Cc@E{@MKAqAOiCY{@MyAOQCq@K[GSI}@OkDg@yAOMCA?iBWw@M[GiBW{AOi@E_CQWCcDYWCy@IYE}AMuAMqAMo@Ge@EYCaEe@OCKAAAqK{@gBQcCUuBSoAOcAKYGWEo@GGAiD[c@E}D_@qBSy@IcD[cBO_AK}Da@i@Ge@E}@K[CMAKCSAICQEKESKUKWOIGSMGEOKCCKKOI[OYQYOOGIEA?]MA?S?k@D"
+                     },
+                     "start_location" : {
+                        "lat" : -37.7512538,
+                        "lng" : 145.0461249
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 364
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 34
+                     },
+                     "end_location" : {
+                        "lat" : -37.7244436,
+                        "lng" : 145.0476248
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e1st\u003c/b\u003e exit",
+                     "maneuver" : "roundabout-left",
+                     "polyline" : {
+                        "points" : "zggeFuiitZA@?@A@A@?@A?A@A@CVCZCl@@|@Ah@@h@A\\AZE`@Gb@CHGVKZOZOXa@d@Y\\ITQXCFCDCDCJCHCLCLOp@"
+                     },
+                     "start_location" : {
+                        "lat" : -37.7255772,
+                        "lng" : 145.0513121
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 308
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 48
+                     },
+                     "end_location" : {
+                        "lat" : -37.7224591,
+                        "lng" : 145.0484449
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e3rd\u003c/b\u003e exit",
+                     "maneuver" : "roundabout-left",
+                     "polyline" : {
+                        "points" : "v`geFsrhtZ?H?HAFAHCHCFEFEFCBC@CBE@E@C@E?E?A??AA?A?A?GCGEEEEGEGCICIAI?C?G?M?A?A?A@A?A?A?A?ACU?ECGEKCEEE?AU]MOECMGSIICICi@IE?GAO?g@@G?i@@"
+                     },
+                     "start_location" : {
+                        "lat" : -37.7244436,
+                        "lng" : 145.0476248
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 460
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 116
+                     },
+                     "end_location" : {
+                        "lat" : -37.7212584,
+                        "lng" : 145.0488082
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e2nd\u003c/b\u003e exit\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "roundabout-left",
+                     "polyline" : {
+                        "points" : "jtfeFwwhtZ?BA@?B?@AB?@ABA@A@?@A@A@A@A@A?A@C?A@A?A?A?A?C?A?AACCACAAAEAGAG?G?E?E@E@C?EBC@CBCEe@AoC?QAKAOCMGQWcAIO?ACACEAAA??AA?C?C?A?O?w@EYCG?C@CBCBCHAB?DAF?B?F@F@h@FvB?`B?P"
+                     },
+                     "start_location" : {
+                        "lat" : -37.7224591,
+                        "lng" : 145.0484449
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "`a_fFqxutZKKc@]OQSTGDi@FGpDWhCvA^`BR~Db@~Dd@|ARYjEObDC|BErC@dA?dAc@BoAMwHw@wJeAyEi@yEe@gSsBmFi@cBOK@[N_Az@c@cAWk@Q[KIWIgEe@mO_BeCUaDUuL{@cJm@yBQqAWu@IaBOcKqAaFk@eFm@{TaCaBO{B[qCYmBQ{UgCqRqB_l@gG{NyAsBSu@KaCQIFmAHeCNsAGUHc@TQRQb@W~@KNa@bBiA|EcAtHOXQpCi@`FsAdGs@`CgAtCaBjD}AlCqB~CuApBoAbBwDrEyGlIaAhAmBbCuBzBoBbB{ClB{BfAo@XiBl@{EbAgCf@_AT{Ah@yAt@_An@gA`Aw@bAo@~@m@jAg@fAc@vAYfA_@tBQfBI`BC~@?dCLtFZvMHdI@rC@nFCtHOnHJ\\B|BLlDVhEPhAZnAt@tBVv@D\\?TBd@I?g@CmB?{AA_F?q@Q_CI}BCa@AYFyB@gBCgCK_ZoAoCQgESqAMe@OwAk@{AkAaIaJ_B{Ak@a@WOOU}@Ua@IsBYiBUmB]IAIHSJcANuFxFkA|A_@v@]fAKr@IhA@|CDlDJtHPjLDrEE~Ac@nIyA|Ta@rG}@nMW~Fa@rGe@fGc@hBe@~AUn@o@vBoB~Fo@|AkAzAk@b@}BdAcClA_Ar@]`@]b@u@pAo@jB_@pA]h@eAhDkAhE{CxKoBbHy@vCITU|AWnAcAIcHy@yEm@[GSIiFw@sEk@sAUiBW{AOiDW{D]iEa@}Fi@wFo@_SeBcHw@yFk@mKcAoTwBw@KgAc@}@k@o@e@_By@k@S_ADABEDKv@AjB?rACx@MdAK`@[v@q@~@Y\\ITU`@GJOp@Oz@APIZSTSHM?UKKMIQE_@@[Ge@OYc@m@SK]Ms@MeA?q@@ADAJEHQJG?KEGSA[FSDGEe@AoCA]E]i@gBKIIAcBIK@GFGZB|@FxE?P"
+         },
+         "summary" : "Elgar Rd",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

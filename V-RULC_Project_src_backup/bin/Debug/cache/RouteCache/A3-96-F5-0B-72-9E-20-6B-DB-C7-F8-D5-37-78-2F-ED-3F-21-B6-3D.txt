@@ -1,0 +1,186 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJZdONeMtC1moR118x9FXnHcs",
+         "types" : [ "premise" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJSSKDr7ZC1moRTsSnSV5BnuM",
+         "types" : [
+            "establishment",
+            "point_of_interest",
+            "train_station",
+            "transit_station"
+         ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : -37.8088694,
+               "lng" : 144.9700102
+            },
+            "southwest" : {
+               "lat" : -37.8176765,
+               "lng" : 144.9611805
+            }
+         },
+         "copyrights" : "Map data ©2019 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.0 km",
+                  "value" : 1965
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 649
+               },
+               "end_address" : "Flinders Street Railway Station, Flinders St, Melbourne VIC 3000, Australia",
+               "end_location" : {
+                  "lat" : -37.8176765,
+                  "lng" : 144.9669824
+               },
+               "start_address" : "Building 8, 360 Swanston St, Melbourne VIC 3000, Australia",
+               "start_location" : {
+                  "lat" : -37.8090652,
+                  "lng" : 144.9635133
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 218
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 96
+                     },
+                     "end_location" : {
+                        "lat" : -37.8097441,
+                        "lng" : 144.9611805
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eLittle La Trobe St\u003c/b\u003e toward \u003cb\u003eLiterature Ln\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "tqweF}dxsZ\\lBTfAp@lD^lB"
+                     },
+                     "start_location" : {
+                        "lat" : -37.8090652,
+                        "lng" : 144.9635133
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "66 m",
+                        "value" : 66
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : -37.8103014,
+                        "lng" : 144.9614294
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eElizabeth St\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "zuweFkvwsZ\\MpAc@"
+                     },
+                     "start_location" : {
+                        "lat" : -37.8097441,
+                        "lng" : 144.9611805
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 451
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 128
+                     },
+                     "end_location" : {
+                        "lat" : -37.8088961,
+                        "lng" : 144.9662471
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 1st cross street onto \u003cb\u003eLa Trobe St\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "jyweF}wwsZQ}@u@wDIc@Mi@Oy@YuACUACOq@Mm@EUWmAEOAGAKaAmF"
+                     },
+                     "start_location" : {
+                        "lat" : -37.8103014,
+                        "lng" : 144.9614294
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 km",
+                        "value" : 931
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 308
+                     },
+                     "end_location" : {
+                        "lat" : -37.81664809999999,
+                        "lng" : 144.9699545
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eRussell St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "rpweFavxsZEShBs@vAe@PId@Oh@SRGd@Q`@OLEl@UTIxBw@r@UNG|@]ZKd@QjA_@l@WVGh@SnCiA^MLCVMx@Yf@QvAg@nCaAJEBAVI"
+                     },
+                     "start_location" : {
+                        "lat" : -37.8088961,
+                        "lng" : 144.9662471
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 299
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 89
+                     },
+                     "end_location" : {
+                        "lat" : -37.8176765,
+                        "lng" : 144.9669824
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eFlinders St\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eState Route 30\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "`ayeFemysZVKDX?BNv@FVFTr@rDx@xDFTXtA"
+                     },
+                     "start_location" : {
+                        "lat" : -37.81664809999999,
+                        "lng" : 144.9699545
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "tqweF}dxsZdCpMnBq@gAuFaA}Ec@yBe@{BcAyFEShBs@hBo@nAc@hBo@`KqDzDsAnDwAd@QhIuC~@]\\lBz@hE`AnEXtA"
+         },
+         "summary" : "Russell St",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

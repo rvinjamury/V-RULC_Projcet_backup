@@ -1,0 +1,397 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ69wtLFlA1moREr1R8lK9BQg",
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJBzYIntJc1moRx9KnACNkqo0",
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : -37.7797497,
+               "lng" : 145.1183669
+            },
+            "southwest" : {
+               "lat" : -37.849855,
+               "lng" : 144.9581
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "23.3 km",
+                  "value" : 23289
+               },
+               "duration" : {
+                  "text" : "33 mins",
+                  "value" : 1995
+               },
+               "end_address" : "407-417 Royal Parade, Parkville VIC 3052, Australia",
+               "end_location" : {
+                  "lat" : -37.7839375,
+                  "lng" : 144.9581897
+               },
+               "start_address" : "221 Burwood Hwy, Burwood VIC 3125, Australia",
+               "start_location" : {
+                  "lat" : -37.8473695,
+                  "lng" : 145.1151311
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "44 m",
+                        "value" : 44
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 9
+                     },
+                     "end_location" : {
+                        "lat" : -37.8470498,
+                        "lng" : 145.1154263
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "`a_fFqxutZAAAACCCCKIEACEMKECIM"
+                     },
+                     "start_location" : {
+                        "lat" : -37.8473695,
+                        "lng" : 145.1151311
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "44 m",
+                        "value" : 44
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 16
+                     },
+                     "end_location" : {
+                        "lat" : -37.8466992,
+                        "lng" : 145.1152527
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eHolland Ave\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "`__fFmzutZMNEDEDA?C@e@D"
+                     },
+                     "start_location" : {
+                        "lat" : -37.8470498,
+                        "lng" : 145.1154263
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 141
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 51
+                     },
+                     "end_location" : {
+                        "lat" : -37.8465365,
+                        "lng" : 145.1136703
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eHolland Ave\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "z|~eFiyutZ?R?LC`BCl@WhC"
+                     },
+                     "start_location" : {
+                        "lat" : -37.8466992,
+                        "lng" : 145.1152527
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 352
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 114
+                     },
+                     "end_location" : {
+                        "lat" : -37.8496526,
+                        "lng" : 145.1129823
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eHolland Ave\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "z{~eFmoutZvA^TDjALb@D|APh@FRB^D|@HbAN\\Dr@J"
+                     },
+                     "start_location" : {
+                        "lat" : -37.8465365,
+                        "lng" : 145.1136703
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 338
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 47
+                     },
+                     "end_location" : {
+                        "lat" : -37.8496075,
+                        "lng" : 145.109375
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eBurwood Hwy\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eState Route 26\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ho_fFckutZh@FKdBMdBA^MbC?^C|AC`AApA?N@t@"
+                     },
+                     "start_location" : {
+                        "lat" : -37.8496526,
+                        "lng" : 145.1129823
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.3 km",
+                        "value" : 1349
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 160
+                     },
+                     "end_location" : {
+                        "lat" : -37.8379633,
+                        "lng" : 145.1105906
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eElgar Rd\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "`o_fFstttZ?dAc@By@IUC{@Ki@Es@I}C[{C[oAMwAQs@IaAKkAMy@KQC]EuAM]EgAKSCm@GeBQeAK{AQe@EkEc@kAMuAOi@Ec@EiAM{AOG?G@C?GBIBEBCB[Vc@b@"
+                     },
+                     "start_location" : {
+                        "lat" : -37.8496075,
+                        "lng" : 145.109375
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "4.6 km",
+                        "value" : 4650
+                     },
+                     "duration" : {
+                        "text" : "8 mins",
+                        "value" : 487
+                     },
+                     "end_location" : {
+                        "lat" : -37.7968592,
+                        "lng" : 145.1182446
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eElgar Rd\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eRiversdale Rd\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eState Route 20\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow Elgar Rd\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ff}eFe|ttZYq@IQEKEKEGEKKSEGA?IIMEICKA{Dc@mBSeEc@[E}Da@qBSSA}@IcBKsDYgDWMAkAGEAsAIs@EuE[yBQqAWWC]EYCI?IAs@IcC]}C_@]EcAMeAM]EqBWK?wAQ_@CcAMi@IIAqBSyAQiBSuC[k@G{@K}BUMA_@CSE_@CUAKCiAQOCc@Ga@EYCq@G_@Cg@GOAUCQAw@KE?sI_AWCs@Im@G}Dc@a@EQC_Ea@e@EsC[QCqD_@}Fm@QCc@EYCs@KeFg@sBUgCYSAiFk@]Ew@IQCw@IkAKqAOk@GkAMkGm@wBUQAaBQSCa@GoAMq@CCBEBC@E?{@DG@m@Dc@Ba@DQ?iAGI?"
+                     },
+                     "start_location" : {
+                        "lat" : -37.8379633,
+                        "lng" : 145.1105906
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "11.8 km",
+                        "value" : 11829
+                     },
+                     "duration" : {
+                        "text" : "8 mins",
+                        "value" : 464
+                     },
+                     "end_location" : {
+                        "lat" : -37.7957846,
+                        "lng" : 144.9988184
+                     },
+                     "html_instructions" : "Merge onto \u003cb\u003eEastern Fwy\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eM3\u003c/b\u003e via the ramp to \u003cb\u003eCity\u003c/b\u003e",
+                     "maneuver" : "ramp-left",
+                     "polyline" : {
+                        "points" : "jeueF_lvtZIDKBOHSJMLCDEHKXSv@CFKNa@bBw@~CQ|@G\\CR_@lCWtBEHINE`AKnAOdBIp@Gf@G`@Id@Op@_@fBYdA[fAWx@_@bAg@pAu@|Ak@lAU`@gAjBo@dAaAxAc@n@q@`Aw@hAWXkDfEKJiAtAoEvFIHw@~@g@r@eAnAuBzBoBbB{ClB{BfAe@TIBMF{Ad@[H_Ex@aAPeATC?{@Ti@Nq@Xm@Xk@ZYNe@^_@\\g@b@W\\_@d@UXYd@U^Wj@Uf@Q^K\\Wx@KZMj@I`@G^GVEZCVEXCZCXC\\CX?PAVA^A^Ad@@~A?B@jADtADnAPbGHrEDhDBzC@dB?l@@nFCtHGdEGhBC`EAjCBt@JtCHhALjATbBf@bC`BfHjA~Dx@bCt@`Bz@zB|B|FL\\l@|AFRf@~Ab@|Ah@zBf@bCLr@d@tCf@hE^zEN~DHbCBz@@RXnHFjANzBZlCRpAZfBRv@Nj@f@bB^hA~ApDlBlDv@rArArBbA~AfBlCdBnCV`@lBnDj@jAf@lAf@rAVz@b@~AXjARfA\\rBTpBJxAFr@D`ABbBAJAvCCpAAb@a@fIO|COhD?BKrEChACr@EpB?~@A^Ab@?TAvB@rCAfADdG?`EJtEHdCTrGB~ADdAHhCf@|Hn@bNJbCH`BJxEBpGGvCIvFGtBCd@Cl@QbEOjECdAAdAAlAAlAC`A@nDLvDVzDZlDn@pEh@hDbC|KHZxD|NJ\\tBrIRt@~@pDz@lElAnHFZDX@HBPB\\BX@FJdATtEDp@DnB"
+                     },
+                     "start_location" : {
+                        "lat" : -37.7968592,
+                        "lng" : 145.1182446
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "3.1 km",
+                        "value" : 3083
+                     },
+                     "duration" : {
+                        "text" : "7 mins",
+                        "value" : 410
+                     },
+                     "end_location" : {
+                        "lat" : -37.7934838,
+                        "lng" : 144.9647091
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003eState Route 83\u003c/b\u003e (signs for \u003cb\u003eAlexandra Pde\u003c/b\u003e)",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "r~teFsa_tZDzD?DCzB?JMxDMtBKnBC\\GrBCr@Q~CC`@OfCMnAQz@?@Md@aA|CSt@Kr@Ep@Cr@CXG|AEr@KvBAH?HAJMjCMhCMjCQrDEXAJAJALAPOzCYtFALAZQdDEl@StDK|BMrBUxESrEOlD?@I~AA`@IrAEfAAPSxDAF?JAJAP[dGGfA?LIvACVIfBQ`DANAPM~B?HAL?d@?L@Z?D@F?F@FFRNZ@B?@?B?D@HfA~ATl@Jb@HZFf@DX@NBN?@@T@N?N?L?T?P?BBH?F?R?J?B?@AJ?D?P?JBLHLVRHFFLFJBH?LAJAHCHEHGD"
+                     },
+                     "start_location" : {
+                        "lat" : -37.7957846,
+                        "lng" : 144.9988184
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "32 m",
+                        "value" : 32
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 4
+                     },
+                     "end_location" : {
+                        "lat" : -37.7932394,
+                        "lng" : 144.964513
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCollege Cres\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eSwanston St\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eState Route 34\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eState Route 83\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "fpteFmlxsZWRWR"
+                     },
+                     "start_location" : {
+                        "lat" : -37.7934838,
+                        "lng" : 144.9647091
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 643
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 81
+                     },
+                     "end_location" : {
+                        "lat" : -37.7899363,
+                        "lng" : 144.958917
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003eCollege Cres\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eState Route 83\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow State Route 83\u003c/div\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "vnteFekxsZ_@VC@a@`@i@j@C@A@?@A?C@GHOZOXCBQb@CDOZOd@ADUhACLGf@CTC\\E`@EdACd@G^I^EPCHSd@O\\OXWb@SV[^QPCB]XYT]RYPIBc@b@QNGJILI`@"
+                     },
+                     "start_location" : {
+                        "lat" : -37.7932394,
+                        "lng" : 144.964513
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 606
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 92
+                     },
+                     "end_location" : {
+                        "lat" : -37.784751,
+                        "lng" : 144.9591915
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eRoyal Parade\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "bzseFghwsZATAVATOAYCM?yBMiG_@_FYgHc@cAG"
+                     },
+                     "start_location" : {
+                        "lat" : -37.7899363,
+                        "lng" : 144.958917
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 96
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : -37.7846672,
+                        "lng" : 144.9581
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eWalker St\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "tyreF}iwsZOxE"
+                     },
+                     "start_location" : {
+                        "lat" : -37.784751,
+                        "lng" : 144.9591915
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "82 m",
+                        "value" : 82
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 40
+                     },
+                     "end_location" : {
+                        "lat" : -37.7839375,
+                        "lng" : 144.9581897
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 1st cross street onto \u003cb\u003eMile Ln\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "dyreFccwsZQA_CO"
+                     },
+                     "start_location" : {
+                        "lat" : -37.7846672,
+                        "lng" : 144.9581
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "`a_fFqxutZKKc@]OQSTGDi@FGpDWhCvA^`BR~Db@~Dd@|ARYjEObDC|BErC@dA?dAc@BoAMwHw@wJeAyEi@yEe@gSsBmFi@cBOK@[N_Az@c@cAWk@Q[KIWIgEe@mO_BeCUaDUuL{@cJm@yBQqAWu@IaBOcKqAaFk@eFm@{TaCaBO{B[qCYmBQ{UgCqRqB_l@gG{NyAsBSu@KaCQIFmAHeCNsAGUHc@TQRQb@W~@KNa@bBiA|EcAtHOXQpCi@`FsAdGs@`CgAtCaBjD}AlCqB~CuApBoAbBwDrEyGlIaAhAmBbCuBzBoBbB{ClB{BfAo@XiBl@{EbAgCf@_AT{Ah@yAt@_An@gA`Aw@bAo@~@m@jAg@fAc@vAYfA_@tBQfBI`BC~@?dCLtFZvMHdI@rC@nFCtHOnHElINjEVtCTbBf@bC`BfHjA~Dx@bCt@`BxDxJz@zBn@rBlAxEt@vDd@tCf@hE^zEN~DL~DZbIVfEn@~En@~Cv@nC^hA~ApDdD`GdJpNdCpErAxC~@nC|@jDp@zD`@jELtB@nBEhFc@jJ_@fIKvEMnHEpE?zEDfMTzIXrJNnEf@|Hn@bNTdFJxEBpGQnKKzCUpFSpGIbH@nDLvDVzDZlDxAzJlCxLdEzOhChK~@pDz@lEtAjINrAD`@`@zGJ`DD`ECfCMxDMtBOlCKfDU`E]vEQ|@oAbESt@Kr@IdB]bHQjD[tGQrDEXCVC^m@zLw@fOc@lIc@`KUvE]zGu@tN_@jHO|DBv@@NVn@@N@HfA~A`@pAPbAFh@Fv@?dABL?ZA\\?VBX`@`@PTJTAXERMNsA`AqApAA@KJu@|Ac@fAc@dCSzCKdAOp@Wn@_@v@k@z@m@p@a@\\w@h@c@Tu@r@QXI`@ATCl@i@EqRgAkJk@OxEQA_CO"
+         },
+         "summary" : "Elgar Rd and M3",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

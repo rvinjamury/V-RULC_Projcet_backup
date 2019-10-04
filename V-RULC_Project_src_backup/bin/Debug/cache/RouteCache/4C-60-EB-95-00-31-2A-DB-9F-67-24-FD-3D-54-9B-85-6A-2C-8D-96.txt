@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJucs5vzdq1moRpVuNIE-ba5M",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJucs5vzdq1moRpVuNIE-ba5M",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : -37.896461,
+               "lng" : 145.0706968
+            },
+            "southwest" : {
+               "lat" : -37.896461,
+               "lng" : 145.0706968
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Flat 3/31 Kangaroo Rd, Murrumbeena VIC 3163, Australia",
+               "end_location" : {
+                  "lat" : -37.896461,
+                  "lng" : 145.0706968
+               },
+               "start_address" : "Flat 3/31 Kangaroo Rd, Murrumbeena VIC 3163, Australia",
+               "start_location" : {
+                  "lat" : -37.896461,
+                  "lng" : 145.0706968
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : -37.896461,
+                        "lng" : 145.0706968
+                     },
+                     "html_instructions" : "Head",
+                     "polyline" : {
+                        "points" : "zshfF{bmtZ"
+                     },
+                     "start_location" : {
+                        "lat" : -37.896461,
+                        "lng" : 145.0706968
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "zshfF{bmtZ"
+         },
+         "summary" : "",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

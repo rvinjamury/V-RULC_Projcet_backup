@@ -1,0 +1,277 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJucs5vzdq1moRpVuNIE-ba5M",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ8fH42y5q1moREMvhDcVMleU",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : -37.8930055,
+               "lng" : 145.0709649
+            },
+            "southwest" : {
+               "lat" : -37.896461,
+               "lng" : 145.056203
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.7 km",
+                  "value" : 1696
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 274
+               },
+               "end_address" : "223 Koornang Rd, Carnegie VIC 3163, Australia",
+               "end_location" : {
+                  "lat" : -37.8934153,
+                  "lng" : 145.056265
+               },
+               "start_address" : "Flat 3/31 Kangaroo Rd, Murrumbeena VIC 3163, Australia",
+               "start_location" : {
+                  "lat" : -37.896461,
+                  "lng" : 145.0706968
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "11 m",
+                        "value" : 11
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 4
+                     },
+                     "end_location" : {
+                        "lat" : -37.8963676,
+                        "lng" : 145.0707514
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e toward \u003cb\u003eBute St\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "zshfF{bmtZAACACAEAAA"
+                     },
+                     "start_location" : {
+                        "lat" : -37.896461,
+                        "lng" : 145.0706968
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "94 m",
+                        "value" : 94
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 31
+                     },
+                     "end_location" : {
+                        "lat" : -37.89567479999999,
+                        "lng" : 145.0708853
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 1st cross street onto \u003cb\u003eBute St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "hshfFecmtZ?A?CAA?CAAACCEAACECACAAAECC?CAA@A?A@ABABIRoAO"
+                     },
+                     "start_location" : {
+                        "lat" : -37.8963676,
+                        "lng" : 145.0707514
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 173
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 38
+                     },
+                     "end_location" : {
+                        "lat" : -37.894301,
+                        "lng" : 145.0705909
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eBute St\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "|nhfFadmtZA^AFA@?@A@A@A@A?A@E?mC]G?E?G@wAb@"
+                     },
+                     "start_location" : {
+                        "lat" : -37.89567479999999,
+                        "lng" : 145.0708853
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 432
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 69
+                     },
+                     "end_location" : {
+                        "lat" : -37.8937439,
+                        "lng" : 145.0657605
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eInnellan Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eGo through 1 roundabout\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "jfhfFebmtZ?@?@@@?@AFQtCGfAUtD@D?F?B?B?FAR?@@??@@@?@?@?@?@?@?@?@A??@A??@A??@G\\?@CFSzD]pF"
+                     },
+                     "start_location" : {
+                        "lat" : -37.894301,
+                        "lng" : 145.0705909
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "19 m",
+                        "value" : 19
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 5
+                     },
+                     "end_location" : {
+                        "lat" : -37.8939134,
+                        "lng" : 145.0657288
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eMurrumbeena Rd\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "zbhfF_dltZ`@D"
+                     },
+                     "start_location" : {
+                        "lat" : -37.8937439,
+                        "lng" : 145.0657605
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 710
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 82
+                     },
+                     "end_location" : {
+                        "lat" : -37.8930055,
+                        "lng" : 145.0577254
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eMcLaurin Rd\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "|chfFycltZMdCIzAa@fHKrBc@zHKfBUhEUhEQhC"
+                     },
+                     "start_location" : {
+                        "lat" : -37.8939134,
+                        "lng" : 145.0657288
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 97
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 15
+                     },
+                     "end_location" : {
+                        "lat" : -37.8938719,
+                        "lng" : 145.0576019
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003ePorter Rd\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "h~gfFyqjtZvCVR@"
+                     },
+                     "start_location" : {
+                        "lat" : -37.8930055,
+                        "lng" : 145.0577254
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 124
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 21
+                     },
+                     "end_location" : {
+                        "lat" : -37.8937362,
+                        "lng" : 145.056203
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eThe Crossover\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "tchfF_qjtZYvG"
+                     },
+                     "start_location" : {
+                        "lat" : -37.8938719,
+                        "lng" : 145.0576019
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "36 m",
+                        "value" : 36
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 9
+                     },
+                     "end_location" : {
+                        "lat" : -37.8934153,
+                        "lng" : 145.056265
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eKoornang Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "zbhfFghjtZWEg@E"
+                     },
+                     "start_location" : {
+                        "lat" : -37.8937362,
+                        "lng" : 145.056203
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "zshfF{bmtZOGAGEKMOOGG?O\\oAOA^CHEFC@sC]M?_Bd@@Fq@zK@TA\\BB?DAHC@?@G^WbE]pF`@DW`F}A~Xk@rKQhCvCVR@YvG_AK"
+         },
+         "summary" : "McLaurin Rd",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}
